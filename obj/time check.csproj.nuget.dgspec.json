@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sys1\\source\\repos\\Time_Track\\time check.csproj": {}
+    "C:\\Users\\h565928\\source\\repos\\Time_Track\\time check.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sys1\\source\\repos\\Time_Track\\time check.csproj": {
+    "C:\\Users\\h565928\\source\\repos\\Time_Track\\time check.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sys1\\source\\repos\\Time_Track\\time check.csproj",
+        "projectUniqueName": "C:\\Users\\h565928\\source\\repos\\Time_Track\\time check.csproj",
         "projectName": "time check",
-        "projectPath": "C:\\Users\\sys1\\source\\repos\\Time_Track\\time check.csproj",
-        "packagesPath": "C:\\Users\\sys1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sys1\\source\\repos\\Time_Track\\obj\\",
+        "projectPath": "C:\\Users\\h565928\\source\\repos\\Time_Track\\time check.csproj",
+        "packagesPath": "C:\\Users\\h565928\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h565928\\source\\repos\\Time_Track\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sys1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\h565928\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\mn17iiotapp\\Git\\Nuget\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
