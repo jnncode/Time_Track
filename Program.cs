@@ -1,4 +1,18 @@
-﻿IWebDriver driver = new ChromeDriver();
+﻿using OpenQA.Selenium;
 
-driver.Navigate().GoToUrl("https://arpwas.honeywell.com/twb/");
-var loginButton = driver.FindElement(By.Class("MobileLoginStdBtn")); // Assuming login credentials are saved
+namespace Time_Track {
+    public class Program {
+        public static void Main(string[] args) {
+            DriverManager driverManager = new DriverManager();
+            IWebDriver driver;
+            try {
+                driver = driverManager.InitializeDriver();
+                LoginHandler loginHandler = new LoginHandler();
+                loginHandler.PerformLogin(driver);
+            }
+            finally {
+                driverManager.QuitDriver();
+            }
+        }
+    }
+}
