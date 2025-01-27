@@ -9,6 +9,8 @@ namespace Time_Track {
                 driver = driverManager.InitializeDriver();
                 LoginHandler loginHandler = new LoginHandler();
                 loginHandler.PerformLogin(driver);
+                EnterRecords enterRecords = new EnterRecords();
+                enterRecords.EnterTimeRecords(driver);
             }
             finally {
                 driverManager.QuitDriver();

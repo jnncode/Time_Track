@@ -24,3 +24,29 @@ C:\Users\sys1\source\repos\Time_Track\bin\Debug\net9.0\Microsoft.Extensions.Conf
 C:\Users\sys1\source\repos\Time_Track\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\sys1\source\repos\Time_Track\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Users\sys1\source\repos\Time_Track\bin\Debug\net9.0\Sprache.dll
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\selenium-manager\linux\selenium-manager
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\selenium-manager\macos\selenium-manager
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\time check.exe
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\time check.deps.json
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\time check.runtimeconfig.json
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\time check.dll
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\time check.pdb
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\DotNetEnv.dll
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\WebDriver.dll
+C:\Users\h565928\source\repos\Time_Track\bin\Debug\net9.0\Sprache.dll
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.csproj.AssemblyReference.cache
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.AssemblyInfoInputs.cache
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.AssemblyInfo.cs
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.csproj.CoreCompileInputs.cache
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.sourcelink.json
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.csproj.Up2Date
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.dll
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\refint\time check.dll
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.pdb
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\time check.genruntimeconfig.cache
+C:\Users\h565928\source\repos\Time_Track\obj\Debug\net9.0\ref\time check.dll
